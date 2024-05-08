@@ -24,6 +24,7 @@ Instale o Selenium WebDriver e o Pandas usando o pip:
 - pip install selenium
 - pip install pandas
 - pip install openpyxl
+  
 OBS: Se der erro na instalação, colocar o --user no final. Exemplo: pip install selenium --user
 
 Baixe e instale o Chrome WebDriver (ChromeDriver) de acordo com a versão do seu navegador Chrome. Você pode encontrar o ChromeDriver em https://sites.google.com/a/chromium.org/chromedriver/downloads.
