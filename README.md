@@ -17,10 +17,13 @@ Para executar este projeto, você precisará ter o seguinte instalado:
 - Openpyxl
 - Google Chrome
 
+# Clone
+Você pode clonar o repositório usando: git clone https://github.com/FelipeSantanaC/DesafioRPAPython
+
 # Instalação
 Certifique-se de ter o Python instalado.
 
-Instale o Selenium WebDriver e o Pandas usando o pip:
+Instale o Selenium, Pandas e Openpyxl usando o pip:
 - pip install selenium
 - pip install pandas
 - pip install openpyxl
